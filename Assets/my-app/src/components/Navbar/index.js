@@ -1,6 +1,10 @@
 import React from "react";
 
-import About from "../aboutMe";
+import About from "./components/aboutMe";
+import Projects from "./components/Projects";
+import contact from "./components/ContactMe";
+import Resume from "./components/Resume";
+
 
 export default function nav() {
   const NavStyle = { border: "1px orange", padding: "100px", fontSize: "30px" };
@@ -9,16 +13,16 @@ export default function nav() {
     
       <div className="navbar container">
         <div style={NavStyle}>
-          <a href="../component">About Me</a>
+          <a href={About}>About Me</a>
         </div>
         <div style={NavStyle}>
-          <a href="">Portfolio</a>
+          <a href={Projects}>Portfolio</a>
         </div>
         <div style={NavStyle}>
-          <a href="#">Contact</a>
+          <a href={contact}>Contact</a>
         </div>
         <div style={NavStyle}>
-          <a href="#">Resume</a>
+          <a href={Resume}>Resume</a>
         </div>
       </div>
     
