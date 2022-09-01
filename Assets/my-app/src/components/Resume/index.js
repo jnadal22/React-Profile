@@ -7,5 +7,5 @@ function Resume() {
             <img src="/Users/jordannadal/Desktop/Project-folder/React-Profile/NEW RESUME 1.pdf"></img>
 
         </div>
-    )
-}
+    );
+};

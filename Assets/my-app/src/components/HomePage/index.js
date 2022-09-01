@@ -1,6 +1,6 @@
 import React from "react";
 
-// import chicagoBean from "..images/chicagoBean";
+import chicagoBean from "../images/chicagoBean";
 
 export default function IntroPage() {
   return (
@@ -17,7 +17,7 @@ export default function IntroPage() {
         <div className="header">
           <img
             id="pic1"
-            src="chicagoBean.JPG"
+            src={chicagoBean.JPG}
             alt="Jordans porfolio"
             width="400"
             height="400"
