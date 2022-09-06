@@ -26,7 +26,7 @@ const changeSection = (newSection) => {
         <Navbar changeSection = {changeSection}/>
       </div>
 
-      <div className="container">
+      <div className="container reactComponent">
         {section === "homepage" ? <Homepage /> : ""}
         {section === "contactme" ? <Contact /> : ""}
         {section === "aboutme" ? <Aboutme /> : ""}

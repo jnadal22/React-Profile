@@ -11,7 +11,7 @@ export default function MyFooter() {
       <a href="https://github.com/jnadal22">
         <img className="image1" src={Githublogo}></img>
       </a>
-      <a href="https://www.linkedin.com/feed/"><img className="image2" src={linkedinLogo}></img></a>
+      <a href="https://www.linkedin.com/in/jordan-nadal-11a61bb8/"><img className="image2" src={linkedinLogo}></img></a>
     </footer>
   );
 }

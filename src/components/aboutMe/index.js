@@ -2,12 +2,9 @@ import React from "react";
 
 export default function About() {
   return (
-    <div className="card text-center">
-      
-       
-      
+    <div className="card text-center aboutMesection">
       <div className="card-body">
-      <h1 className="aboutMe"> About Me</h1>
+        <h1 className="aboutMe"> About Me</h1>
         <p className="card-text" style={{ fontSize: "25px" }}>
           My name is Jordan an I'm and up and coming Developer. I saw how
           interesting programming is through the eyes of many friends that work
@@ -21,4 +18,4 @@ export default function About() {
       </div>
     </div>
   );
-};
+}
