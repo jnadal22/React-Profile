@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Profile/static/css/main.e02d0233.css",
+    "main.js": "/React-Profile/static/js/main.f794caff.js",
+    "static/media/GitMeThere.png": "/React-Profile/static/media/GitMeThere.f5a3e3355cfdb2469565.png",
+    "static/media/MixItUp.png": "/React-Profile/static/media/MixItUp.b12830879e494fc32155.png",
+    "static/media/chicagoBean.JPG": "/React-Profile/static/media/chicagoBean.76a16c1c72aa53afd203.JPG",
+    "static/media/passwordGenerator.png": "/React-Profile/static/media/passwordGenerator.f7654e0a99c7550c63ce.png",
+    "index.html": "/React-Profile/index.html",
+    "main.e02d0233.css.map": "/React-Profile/static/css/main.e02d0233.css.map",
+    "main.f794caff.js.map": "/React-Profile/static/js/main.f794caff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02d0233.css",
+    "static/js/main.f794caff.js"
+  ]
+}
