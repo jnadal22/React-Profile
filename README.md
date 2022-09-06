@@ -1,5 +1,8 @@
 # My-React Portfolio
 
+## link to deployed site:
+https://jnadal22.github.io/React-Profile/ 
+
 ## Description:
 Welcome to My Portfolio! It displays projects I have been apart of and has features of things learned from React framework.
 
